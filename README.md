@@ -1,6 +1,6 @@
 <img src="dino-game.gif" alt="Description of the GIF">
 
-## Hello there 👋
+## Hello there, I'm Kason 🧑🏽‍💻
 
 <!--
 **kgstubbart/kgstubbart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
